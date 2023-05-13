@@ -4,7 +4,7 @@ namespace secript {
   class app {
     public void main ()
     {
-      Console.WriteLine("Hello-World!");
+      Console.WriteLine("bla bal bal XD");
     }
   }
 }
