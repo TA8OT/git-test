@@ -5,6 +5,7 @@ namespace secript {
     public void main ()
     {
       Console.WriteLine("bla bal bal XD");
+      //hi
     }
   }
 }
